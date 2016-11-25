@@ -1,0 +1,18 @@
+4 <- for
+2 <- to
+! <- bang pling excl not shriek
+# <- hash pound sign number sharp hex grid
+$ <- dollar cash money
+% <- percent mod grapes
+& <- ampersand and address reference
+* <- asterisk star splat wildcard times
++ <- plus add cross intersection
+- <- dash hyphen minus
+. <- period dot point decimal
+/ <- slash stroke slant
+= <- equals gets takes
+@ <- at strudel
+^ <- caret hat control chevron fang
+_ <- underline underscore underbar
+| <- bar or pipe vertical
+~ <- tilde squiggle twiddle twist
